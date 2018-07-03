@@ -5,6 +5,10 @@ body{
     background: black;
     color: white;
 }
+a{
+    font-size: 30px;
+    color:#5792f2;
+}
 h1 {
     font-size: 100px;
 }
