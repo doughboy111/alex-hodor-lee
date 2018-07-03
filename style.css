@@ -5,3 +5,15 @@ body{
     background: black;
     color: white;
 }
+h1 {
+    font-size: 100px;
+}
+h2{
+    font-size: 75px;
+}
+h3{
+    font-size: 60px;
+}
+img {
+    width: 400px;
+}
